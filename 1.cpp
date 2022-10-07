@@ -2,7 +2,7 @@
 using namespace std;
 
 #define ll long long
-#define inf 1e9
+#define inf INT_MAX
 #define mod 1e9+7
 
 /* freopen("input.txt","r",stdin); */
