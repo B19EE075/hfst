@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define int long long
+#define ll long long
 #define inf 1e9
 #define mod 1e9+7
 
@@ -11,12 +11,12 @@ using namespace std;
 /*========= Actual CODE STARTS FROM ==========HERE*/
 
 
-int solve()
+ll solve()
 {
 	int n ; cin>>n;
 }
 
-signed main()
+int main()
 {
 	int t;cin>>t;
 	while(t--)
