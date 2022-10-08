@@ -13,7 +13,7 @@ using namespace std;
 
 ll solve()
 {
-	int n,m ; cin>>n>>m;
+	int n,m,O ; cin>>n>>m>>O;
 }
 
 int main()
